@@ -6,7 +6,7 @@ My ethical hacking & TryHackMe learning path – started January 2026
 [Intruder1001 @ TryHackMe](https://tryhackme.com/p/Intruder1001)
 
 ![TryHackMe Stats](https://raw.githubusercontent.com/vaibhav-tandel/CyberSecurity_Journey_2026/main/assets/thm_propic.png)  
-*(auto-updates daily)*
+
 
 **Progress**  
 - Path: Cyber Security 101  
