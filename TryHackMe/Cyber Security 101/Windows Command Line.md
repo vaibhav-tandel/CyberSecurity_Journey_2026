@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This room introduces the Windows Command Line and essential commands used for system navigation, management, and troubleshooting.
+This room introduces the Windows Command Line and common commands used for navigation, file management, and basic system tasks.
 
 
 ## What I Learned
