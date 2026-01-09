@@ -1,7 +1,7 @@
 # Windows Command Line – TryHackMe
 
 **Room Type:** Beginner  
-**Focus:** Windows Command Prompt (CMD)
+**Name :** Windows Command Line
 
 ---
 
