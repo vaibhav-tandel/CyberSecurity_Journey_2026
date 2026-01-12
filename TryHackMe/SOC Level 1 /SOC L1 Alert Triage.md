@@ -24,6 +24,12 @@ This room introduces how a Level 1 SOC analyst performs alert triage to identify
 - Network anomalies  
 - Phishing alerts  
 
+## Useful Websites
+- **VirusTotal** – Analyze hashes, URLs, and IPs  
+- **AbuseIPDB** – Check reputation of IP addresses  
+- **Shodan** – Identify exposed devices and services  
+- **Whois Lookup** – Domain and IP ownership details  
+
 ---
 
 ## Takeaway
