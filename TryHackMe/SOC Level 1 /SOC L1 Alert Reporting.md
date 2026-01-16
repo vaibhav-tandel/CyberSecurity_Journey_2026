@@ -3,29 +3,41 @@
 **Room Type:** Beginner
 
 ## Overview
-This room explains how a SOC Level 1 analyst documents and reports security alerts after analysis and triage.
+This room focuses on how a SOC Level 1 analyst creates clear and structured alert reports after completing alert triage and analysis.
 
 ---
 
 ## What I Learned
-- Importance of accurate alert reporting
-- How to document incidents clearly
-- When and how to escalate alerts
+- Why alert reporting is critical in a SOC
+- How to document alerts in a clear and professional manner
+- How proper reports help senior analysts and incident responders
 
 ## Alert Reporting Process
-- Record alert details and timeline  
-- Document indicators and findings  
-- Assign severity and impact  
-- Escalate to higher tiers if required  
+- Collect alert details and investigation results  
+- Document indicators and supporting evidence  
+- Assess severity and potential impact  
+- Escalate alerts with proper context  
 
 ## Key Reporting Elements
-- Alert source and type  
-- Affected systems or users  
+- Alert ID and source  
+- Description of the activity  
 - Indicators of Compromise (IOCs)  
-- Actions taken and recommendations  
-  
+- Affected users or systems  
+- Analyst actions and observations  
+
+## Best Practices
+- Keep reports clear and concise  
+- Use accurate timestamps  
+- Avoid assumptions, report facts only  
+- Follow the organization’s reporting format  
+
+## Useful Websites
+- **VirusTotal** – Validate hashes, URLs, and IPs  
+- **AbuseIPDB** – Check malicious IP reputation  
+- **Whois Lookup** – Identify domain and IP ownership  
+- **Shodan** – Gain context on exposed services  
 
 ---
 
 ## Takeaway
-Clear and accurate alert reporting ensures **effective incident response and communication** within the SOC.
+Good alert reporting ensures **smooth escalation, faster response, and better decision-making** within the SOC.
