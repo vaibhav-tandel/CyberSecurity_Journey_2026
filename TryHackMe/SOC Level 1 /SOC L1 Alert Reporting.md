@@ -31,12 +31,6 @@ This room focuses on how a SOC Level 1 analyst creates clear and structured aler
 - Avoid assumptions, report facts only  
 - Follow the organization’s reporting format  
 
-## Useful Websites
-- **VirusTotal** – Validate hashes, URLs, and IPs  
-- **AbuseIPDB** – Check malicious IP reputation  
-- **Whois Lookup** – Identify domain and IP ownership  
-- **Shodan** – Gain context on exposed services  
-
 ---
 
 ## Takeaway
